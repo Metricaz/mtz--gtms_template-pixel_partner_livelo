@@ -16,8 +16,8 @@ homepage: "https://metricaz.com/"
 documentation: "https://metricaz.com/contato/"
 versions:
 # Older versions
-  - sha: c3d9e348a45a97639932c9c3bbe04e5323d35951
-    changeNotes: overwrites event and user parameters
+  - sha: 49dcfdde73d68d6ab1b547604b1850fcf0654b72
+    changeNotes: overwrites event and user parameters 
 # Older versions
-  - sha: 536cadc3b35dd5d0953d9c427863901f01911476
+  - sha: c3d9e348a45a97639932c9c3bbe04e5323d35951
     changeNotes: Initial Version
